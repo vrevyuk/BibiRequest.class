@@ -1,0 +1,2 @@
+# BibiRequest.class
+BibiRequest.Class
